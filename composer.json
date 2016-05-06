@@ -1,7 +1,7 @@
 {
 	"name"             : "ogrosko/wp-composer-maintenance",
 	"description"      : "Composer pre/post scripts for enabling/disabling wordpress maintenance mode",
-	"keywords"         : ["maintenance, wordpress, composer"],
+	"keywords"         : ["maintenance", "wordpress", "composer"],
 	"type"             : "composer-scripts",
 	"license"          : "GPL-3.0",
 	"minimum-stability": "dev",
