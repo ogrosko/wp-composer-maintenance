@@ -14,7 +14,7 @@
 	],
 	"autoload"         : {
 		"psr-4": {
-			"OGrosko\\Composer\\": "Classes/"
+			"OGrosko\\": "Classes/"
 		}
 	},
 	"require"          : {
